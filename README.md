@@ -15,6 +15,7 @@ All pages is under WEB-INF directory, you cannot visit them directly. visit this
   
 ## Environment
 
+* Tomcat 8.5.41
 * Java JDK 10
 * mysql
 * Dao layer uses Mybatis
