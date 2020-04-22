@@ -7,7 +7,7 @@ All pages is under WEB-INF directory, you cannot visit them directly. visit this
   This project is an course project assignment for IMOOC online course. I did this project for learning and practicing Mybatis framework.
 
   This is a website for cake shop. It is divided into the front-end product page and the back-end management interface. The product pages is the page customes look through.
-  It shows the recommended cake, consumers can click the button to view the cake details. At the top, consumers can see the search category and filter cakes based on the category.
+  It shows the recommended cake, consumers can click the button to view the cake details. At the top, consumers can see the search category and filter cakes based on the category. Paging query is implemented.
   I did not implement the shopping cart function in this project.  
   
   At the bottom of the homepage, you can click on 'Admin login' to to go to the background management login interface. One account has been added, username is admin, password is admin. Once login, you can manage the cakes and categories, executing  CRUD oprations. Each cake has an attribute 'status', the cakes have status '推荐' and '特卖' will be displayed on the index.jsp. 
