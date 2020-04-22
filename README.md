@@ -1,6 +1,8 @@
 # MyCakeShop
 
 ## Introduction
+    
+  This project is an course project assignment for IMOOC online course. I did this project for learning and practicing Mybatis framework.
 
   This is a website for cake shop. It is divided into the front-end product page and the back-end management interface. The product pages is the page customes look through.
   It shows the recommended cake, consumers can click the button to view the cake details. At the top, consumers can see the search category and filter cakes based on the category.
