@@ -1,5 +1,7 @@
 # MyCakeShop
 
+All pages is under WEB-INF directory, you cannot visit them directly. visit this url after start the project: {contextPath}/index.do
+
 ## Introduction
     
   This project is an course project assignment for IMOOC online course. I did this project for learning and practicing Mybatis framework.
@@ -26,7 +28,6 @@
   
   Two filters implemented, one for encoding, another for login filtering.  
   
-  visit this url after start the project: {context}/index.do
 
 ## Show results
 
